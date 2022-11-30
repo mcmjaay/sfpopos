@@ -1,6 +1,8 @@
 // src/POPOSList.js
 import POPOSSpace from './POPOSSpace';
+import './POPOSList.css';
 import React from 'react'
+
 function POPOSList() {
   return (
     <div className="POPOSList">

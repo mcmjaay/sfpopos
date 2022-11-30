@@ -1,5 +1,6 @@
 // src/POPOSSpace.js
 import React from 'react'
+import './POPOSSpace.css';
 import logo from './logo.svg'
 
 function POPOSSpace(props) { // Add props here!
